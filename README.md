@@ -1,1 +1,1 @@
-In this project we investigate
+Innova lateral flow device was introduced in public by the British government as a tool to contract SARS-CoV-2. Evaluation from PHE and Oxford university found an overall sensitivity and specificity of 76.8% and 99.6%. A later field study conducted in Liverpool found that this testing kit was able to identify only half of the infected people. In light of these evidence, we propose an alternative strategy using existing kits to improve sensitivity until a more reliable testing kit is adopted.
